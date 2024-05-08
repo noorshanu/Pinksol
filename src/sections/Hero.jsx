@@ -7,7 +7,7 @@ function Hero() {
     <section className=" pt-0  pb-[1rem]">
       <div className="container-wrapper flex justify-center flex-col ">
         <h1 className=" font-kid text-[110px] sm:text-[220px] font-bold text-center mt-[5rem] sm:mt-[3rem] uppercase">
-          NubShib
+        <img src="images/pink.png" alt="" className=" mx-auto w-full h-full py-6" />
         </h1>
 
   

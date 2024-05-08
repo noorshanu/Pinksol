@@ -19,16 +19,16 @@ function Navbar() {
 
         {/* Navigation menu */}
         <div className="hidden md:flex flex-grow justify-center">
-          <a href="/" className="text-black font-bold text-lg px-3 py-2 font-kid">Home</a>
-          <a href="#about" className="text-black font-bold text-lg px-3 py-2 font-kid">About</a>
-          <a href="#col" className="text-black font-bold text-lg px-3 py-2 font-kid">Features</a>
+          <a href="/" className="text-black font-bold text-xl px-3 py-2 font-kid">Home</a>
+          <a href="#about" className="text-black font-bold text-xl px-3 py-2 font-kid">About</a>
+          <a href="#col" className="text-black font-bold text-xl px-3 py-2 font-kid">Features</a>
          
-          <a href="#contact" className="text-black font-bold text-lg px-3 py-2 font-kid">Contact Us</a>
+          <a href="#contact" className="text-black font-bold text-xl px-3 py-2 font-kid">Contact Us</a>
         </div>
 
         {/* Wallet Connect button */}
         <div className="md:flex items-center">
-            <a href="https://www.dextools.io/app/en/solana/pair-explorer/52og9K7jjsoP76FXRHc62KXWu3aKdhriXHGdGv92Fnp8?t=1713602367339" target="_blank" className="bg-[#fd8b00] rounded-full px-4 py-2 text-xl font-kid  font-semibold ">Buy Now</a>
+            <a href="" target="_blank" className="bg-[#bc1d5c] hover:bg-transparent hover:border hover:border-[#bc1d5c] hover:text-black text-white rounded-full px-4 py-2 text-xl font-kid  font-semibold ">Buy Now</a>
         </div>
 
         {/* Hamburger menu for mobile */}
@@ -70,10 +70,10 @@ function Navbar() {
             ref={ref}
             className="md:hidden bg-white rounded-2xl border-2 border-[#000] px-2 pt-2 pb-3 space-y-1 m-4"
           >
-            <a href="/" className="text-black font-bold text-lg block px-3 py-2">Home</a>
+            <a href="/" className="text-black font-bold text-xl block px-3 py-2">Home</a>
           
-            <a href="#about" className="text-black font-bold text-lg block px-3 py-2">About</a>
-            <a href="#col" className="text-black font-bold text-lg block px-3 py-2">Features</a>
+            <a href="#about" className="text-black font-bold text-xl block px-3 py-2">About</a>
+            <a href="#col" className="text-black font-bold text-xl block px-3 py-2">Features</a>
             
             <div className=" flex items-center gap-4 text-white mb-6 ml-5">
             <a
