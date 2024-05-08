@@ -22,7 +22,7 @@ function Hero() {
         <div className=" flex justify-center gap-5 items-center mt-[2rem]">
         <a
                   href="https://twitter.com/NubshibSolana"
-                  className=" text-xl text-black bg-[#fd8b00] hover:scale-125 hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
+                  className=" text-xl  bg-[#bc1d5c] hover:scale-125 hover:bg-transparent hover:border hover:border-[#bc1d5c] hover:text-black text-white  rounded-full p-2 border-2 border-[#fff]  "
                 >
                   <BsTwitterX />
                 </a>
@@ -31,16 +31,16 @@ function Hero() {
 
                 <a
                   href="https://t.me/NubShib" target="_blank"
-                  className=" text-xl text-black hover:scale-125 bg-[#fd8b00] hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
+                  className=" text-xl  bg-[#bc1d5c] hover:scale-125 hover:bg-transparent hover:border hover:border-[#bc1d5c] hover:text-black text-white  rounded-full p-2 border-2 border-[#fff]  "
                 >
                   <FaTelegram />
                 </a>
 
           <a
             href="https://www.dextools.io/app/en/solana/pair-explorer/52og9K7jjsoP76FXRHc62KXWu3aKdhriXHGdGv92Fnp8?t=1713602367339" target="_blank"
-            className=" bg-[#fd8b00] rounded-full text-xl font-semibold p-1 border-2 hover:scale-125 "
+            className=" text-xl  bg-[#bc1d5c] hover:scale-125 hover:bg-transparent hover:border hover:border-[#bc1d5c] hover:text-black text-white  rounded-full p-1 border-2 border-[#fff]  "
           >
-            <img src="images/dext.png" alt="" className=" h-[29px] w-auto" />
+            <img src="images/dext.png" alt="" className=" h-[25px] w-auto rounded-full" />
           </a>
         </div>
       </div>
