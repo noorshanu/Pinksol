@@ -11,11 +11,11 @@ const Footer = () => {
         </p>
         <div className="">
           <h2 className=" text-6xl font-kid text-center font-bold">
-          Nubshib
+            PinkSol
           </h2>
           <div className=" flex items-center justify-center gap-2">
             <p className="mt-3 text-xs text-black lg:text-sm font-nubFont">
-            Copyright © 2024 Nubshib
+            Copyright © 2024   PinkSol
             </p>
           </div>
         </div>

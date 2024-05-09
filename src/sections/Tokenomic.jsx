@@ -11,7 +11,7 @@ function Tokenomic() {
         <div className=" w-full sm:w-[300px] bg-[#fd8b00] border-2   py-8 px-4 rounded-2xl shadow-xl">
           <h1 className=" text-2xl font-semibold  pb-2">Token Name</h1>
 
-          <p className=" text-lg font-semibold">Nubshib</p>
+          <p className=" text-lg font-semibold">  PinkSol</p>
         </div>
 
         <div className=" w-full sm:w-[300px] bg-[#fd8b00] border-2   py-8 px-4 rounded-2xl shadow-xl">

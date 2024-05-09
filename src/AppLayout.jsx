@@ -15,10 +15,10 @@ const Popup = ({ onClose }) => {
     <div className="fixed inset-0 flex items-center justify-center z-50 bg-black bg-opacity-50 backdrop-blur-lg">
       <div className="rounded-lg p-8">
         <button
-          className="bg-[#bc1d5c] rounded-full px-6 py-2 text--2xl sm:text-5xl font-kid border-white  font-bold border-2 hover:scale-125"
+          className="bg-[#bc1d5c] rounded-full px-6 py-2 text--2xl sm:text-5xl font-kid border-white  font-bold border-2 hover:scale-125 text-white"
           onClick={onClose}
         >
-          Nubshib - $NUBS
+           PinkSol - $PkSol
         </button>
       </div>
     </div>
@@ -58,14 +58,14 @@ function AppLayout() {
         <Hero />
         <div className=" flex justify-center my-4 ">
           <button
-            className="bg-[#bc1d5c] text-black font-bold py-2 px-16 rounded focus:outline-none focus:shadow-outline  hover:scale-125"
+            className="bg-[#bc1d5c] text-white font-bold py-2 px-16 rounded focus:outline-none focus:shadow-outline  hover:scale-125"
             onClick={handlePlayPause}
           >
             {isPlaying ? "Pause " : "Play Music"}
           </button>
         
         </div>
-        <a href="https://solscan.io/token/Hv1pMPytvgMPUVQUdXsBWhvgdYJqcRdKSeRBK3BrhYcu" target="_blank" className="bg-[#bc1d5c] my-2 text-black font-bold py-2 px-2 sm:px-16 rounded sm:text-lg text-xs   flex justify-center w-[360px] sm:w-[720px] mx-auto">CA : Hv1pMPytvgMPUVQUdXsBWhvgdYJqcRdKSeRBK3BrhYcu</a>
+        <a href="https://solscan.io/token/Hv1pMPytvgMPUVQUdXsBWhvgdYJqcRdKSeRBK3BrhYcu" target="_blank" className="bg-[#bc1d5c] my-2 text-white font-bold py-2 px-2 sm:px-16 rounded sm:text-lg text-xs   flex justify-center w-[360px] sm:w-[720px] mx-auto">CA : Hv1pMPytvgMPUVQUdXsBWhvgdYJqcRdKSeRBK3BrhYcu</a>
         <audio ref={audioRef} src={Music}></audio>
 
       
@@ -74,7 +74,7 @@ function AppLayout() {
       <MemeMark />
 
       <div>
-        <dl className="h-[50px]" />
+        <dl className="h-[20px]" />
         <Intro />
         <dl className="h-[50px]" />
              <div>

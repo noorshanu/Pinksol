@@ -7,14 +7,14 @@ const Intro = () => {
     <>
       <div className=" container-wrapper  px-4 relative  ">
         <img
-          src="images/about.png"
+          src="images/bb1.jpg"
           alt=""
           className="  h-[300px] left-4 floating mx-auto "
         />
 
         <div className="  px-4  py-6  text-center border-[#000000] relative z-50 rounded-2xl  ">
           <h1 className=" text-4xl sm:text-5xl font-bold text-center my-3">
-          NubShib is the sweet Shib for the goofiest of pals.
+            PinkSol is the sweet Shib for the goofiest of pals.
           </h1>
 
         <p></p>

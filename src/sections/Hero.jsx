@@ -21,7 +21,7 @@ function Hero() {
 
         <div className=" flex justify-center gap-5 items-center mt-[2rem]">
         <a
-                  href="https://twitter.com/NubshibSolana"
+                  href="https://twitter.com/  PinkSolSolana"
                   className=" text-xl  bg-[#bc1d5c] hover:scale-125 hover:bg-transparent hover:border hover:border-[#bc1d5c] hover:text-black text-white  rounded-full p-2 border-2 border-[#fff]  "
                 >
                   <BsTwitterX />
@@ -30,7 +30,7 @@ function Hero() {
            
 
                 <a
-                  href="https://t.me/NubShib" target="_blank"
+                  href="https://t.me/  PinkSol" target="_blank"
                   className=" text-xl  bg-[#bc1d5c] hover:scale-125 hover:bg-transparent hover:border hover:border-[#bc1d5c] hover:text-black text-white  rounded-full p-2 border-2 border-[#fff]  "
                 >
                   <FaTelegram />
