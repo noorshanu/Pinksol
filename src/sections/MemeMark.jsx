@@ -9,111 +9,111 @@ function MemeMark() {
           <Marquee  >
    
           
-            <h2 className="mx-2 text-2xl font-bold   lg:text-8xl text-[#bc1d5c] font-kid ">
-          $NUBSHIB
+            <h2 className="mx-2 text-2xl font-bold   lg:text-5xl text-[#bc1d5c] font-kid ">
+          $PinkSol
           </h2>
-          <h2 className="mx-2 text-2xl font-bold   lg:text-8xl text-[#bc1d5c] font-kid">
-          $NUBSHIB
+          <h2 className="mx-2 text-2xl font-bold   lg:text-5xl text-[#bc1d5c] font-kid">
+          $PinkSol
           </h2>
-          <h2 className="mx-2 text-2xl font-bold   lg:text-8xl text-[#bc1d5c] font-kid">
-          $NUBSHIB
+          <h2 className="mx-2 text-2xl font-bold   lg:text-5xl text-[#bc1d5c] font-kid">
+          $PinkSol
           </h2>
-          <h2 className="mx-2 text-2xl font-bold   lg:text-8xl text-[#bc1d5c] font-kid">
-          $NUBSHIB
+          <h2 className="mx-2 text-2xl font-bold   lg:text-5xl text-[#bc1d5c] font-kid">
+          $PinkSol
           </h2>
-          <h2 className="mx-2 text-2xl font-bold   lg:text-8xl text-[#bc1d5c] font-kid">
-          $NUBSHIB
+          <h2 className="mx-2 text-2xl font-bold   lg:text-5xl text-[#bc1d5c] font-kid">
+          $PinkSol
           </h2>
-          <h2 className="mx-2 text-2xl font-bold   lg:text-8xl text-[#bc1d5c] font-kid">
-          $NUBSHIB
+          <h2 className="mx-2 text-2xl font-bold   lg:text-5xl text-[#bc1d5c] font-kid">
+          $PinkSol
           </h2>
-          <h2 className="mx-2 text-2xl font-bold   lg:text-8xl text-[#bc1d5c] font-kid">
-          $NUBSHIB
+          <h2 className="mx-2 text-2xl font-bold   lg:text-5xl text-[#bc1d5c] font-kid">
+          $PinkSol
           </h2>
-          <h2 className="mx-2 text-2xl font-bold   lg:text-8xl text-[#bc1d5c] font-kid">
-          $NUBSHIB
+          <h2 className="mx-2 text-2xl font-bold   lg:text-5xl text-[#bc1d5c] font-kid">
+          $PinkSol
           </h2>
-          <h2 className="mx-2 text-2xl font-bold   lg:text-8xl text-[#bc1d5c] font-kid">
-          $NUBSHIB
+          <h2 className="mx-2 text-2xl font-bold   lg:text-5xl text-[#bc1d5c] font-kid">
+          $PinkSol
           </h2>
-          <h2 className="mx-2 text-2xl font-bold   lg:text-8xl text-[#bc1d5c] font-kid">
-          $NUBSHIB
+          <h2 className="mx-2 text-2xl font-bold   lg:text-5xl text-[#bc1d5c] font-kid">
+          $PinkSol
           </h2>
-          <h2 className="mx-2 text-2xl font-bold   lg:text-8xl text-[#bc1d5c] font-kid">
-          $NUBSHIB
+          <h2 className="mx-2 text-2xl font-bold   lg:text-5xl text-[#bc1d5c] font-kid">
+          $PinkSol
           </h2>
-          <h2 className="mx-2 text-2xl font-bold   lg:text-8xl text-[#bc1d5c] font-kid">
-          $NUBSHIB
+          <h2 className="mx-2 text-2xl font-bold   lg:text-5xl text-[#bc1d5c] font-kid">
+          $PinkSol
           </h2>
-          <h2 className="mx-2 text-2xl font-bold   lg:text-8xl text-[#bc1d5c] font-kid">
-          $NUBSHIB
-          </h2>
-
-
-          <h2 className="mx-2 text-2xl font-bold   lg:text-8xl text-[#bc1d5c] font-kid">
-          $NUBSHIB
+          <h2 className="mx-2 text-2xl font-bold   lg:text-5xl text-[#bc1d5c] font-kid">
+          $PinkSol
           </h2>
 
-          <h2 className="mx-2 text-2xl font-bold   lg:text-8xl text-[#bc1d5c] font-kid">
-          $NUBSHIB
-          </h2>
-          <h2 className="mx-2 text-2xl font-bold   lg:text-8xl text-[#bc1d5c] font-kid">
-          $NUBSHIB
-          </h2>
-          <h2 className="mx-2 text-2xl font-bold   lg:text-8xl text-[#bc1d5c] font-kid">
-          $NUBSHIB
-          </h2>
-          <h2 className="mx-2 text-2xl font-bold   lg:text-8xl text-[#bc1d5c] font-kid">
-          $NUBSHIB
-          </h2>
-          <h2 className="mx-2 text-2xl font-bold   lg:text-8xl text-[#bc1d5c] font-kid">
-          $NUBSHIB
-          </h2>
-          <h2 className="mx-2 text-2xl font-bold   lg:text-8xl text-[#bc1d5c] font-kid">
-          $NUBSHIB
-          </h2>
-          <h2 className="mx-2 text-2xl font-bold   lg:text-8xl text-[#bc1d5c] font-kid">
-          $NUBSHIB
+
+          <h2 className="mx-2 text-2xl font-bold   lg:text-5xl text-[#bc1d5c] font-kid">
+          $PinkSol
           </h2>
 
-            <h2 className="mx-2 text-2xl font-bold   lg:text-8xl text-[#bc1d5c] font-kid">
-          $NUBSHIB
+          <h2 className="mx-2 text-2xl font-bold   lg:text-5xl text-[#bc1d5c] font-kid">
+          $PinkSol
           </h2>
-          <h2 className="mx-2 text-2xl font-bold   lg:text-8xl text-[#bc1d5c] font-kid">
-          $NUBSHIB
+          <h2 className="mx-2 text-2xl font-bold   lg:text-5xl text-[#bc1d5c] font-kid">
+          $PinkSol
           </h2>
-          <h2 className="mx-2 text-2xl font-bold   lg:text-8xl text-[#bc1d5c] font-kid">
-          $NUBSHIB
+          <h2 className="mx-2 text-2xl font-bold   lg:text-5xl text-[#bc1d5c] font-kid">
+          $PinkSol
           </h2>
-          <h2 className="mx-2 text-2xl font-bold   lg:text-8xl text-[#bc1d5c] font-kid">
-          $NUBSHIB
+          <h2 className="mx-2 text-2xl font-bold   lg:text-5xl text-[#bc1d5c] font-kid">
+          $PinkSol
           </h2>
-          <h2 className="mx-2 text-2xl font-bold   lg:text-8xl text-[#bc1d5c] font-kid">
-          $NUBSHIB
+          <h2 className="mx-2 text-2xl font-bold   lg:text-5xl text-[#bc1d5c] font-kid">
+          $PinkSol
           </h2>
-          <h2 className="mx-2 text-2xl font-bold   lg:text-8xl text-[#bc1d5c] font-kid">
-          $NUBSHIB
+          <h2 className="mx-2 text-2xl font-bold   lg:text-5xl text-[#bc1d5c] font-kid">
+          $PinkSol
           </h2>
-          <h2 className="mx-2 text-2xl font-bold   lg:text-8xl text-[#bc1d5c] font-kid">
-          $NUBSHIB
+          <h2 className="mx-2 text-2xl font-bold   lg:text-5xl text-[#bc1d5c] font-kid">
+          $PinkSol
           </h2>
-          <h2 className="mx-2 text-2xl font-bold   lg:text-8xl text-[#bc1d5c] font-kid">
-          $NUBSHIB
+
+            <h2 className="mx-2 text-2xl font-bold   lg:text-5xl text-[#bc1d5c] font-kid">
+          $PinkSol
           </h2>
-          <h2 className="mx-2 text-2xl font-bold   lg:text-8xl text-[#bc1d5c] font-kid">
-          $NUBSHIB
+          <h2 className="mx-2 text-2xl font-bold   lg:text-5xl text-[#bc1d5c] font-kid">
+          $PinkSol
           </h2>
-          <h2 className="mx-2 text-2xl font-bold   lg:text-8xl text-[#bc1d5c] font-kid">
-          $NUBSHIB
+          <h2 className="mx-2 text-2xl font-bold   lg:text-5xl text-[#bc1d5c] font-kid">
+          $PinkSol
           </h2>
-          <h2 className="mx-2 text-2xl font-bold   lg:text-8xl text-[#bc1d5c] font-kid">
-          $NUBSHIB
+          <h2 className="mx-2 text-2xl font-bold   lg:text-5xl text-[#bc1d5c] font-kid">
+          $PinkSol
           </h2>
-          <h2 className="mx-2 text-2xl font-bold   lg:text-8xl text-[#bc1d5c] font-kid">
-          $NUBSHIB
+          <h2 className="mx-2 text-2xl font-bold   lg:text-5xl text-[#bc1d5c] font-kid">
+          $PinkSol
           </h2>
-          <h2 className="mx-2 text-2xl font-bold   lg:text-8xl text-[#bc1d5c] font-kid">
-          $NUBSHIB
+          <h2 className="mx-2 text-2xl font-bold   lg:text-5xl text-[#bc1d5c] font-kid">
+          $PinkSol
+          </h2>
+          <h2 className="mx-2 text-2xl font-bold   lg:text-5xl text-[#bc1d5c] font-kid">
+          $PinkSol
+          </h2>
+          <h2 className="mx-2 text-2xl font-bold   lg:text-5xl text-[#bc1d5c] font-kid">
+          $PinkSol
+          </h2>
+          <h2 className="mx-2 text-2xl font-bold   lg:text-5xl text-[#bc1d5c] font-kid">
+          $PinkSol
+          </h2>
+          <h2 className="mx-2 text-2xl font-bold   lg:text-5xl text-[#bc1d5c] font-kid">
+          $PinkSol
+          </h2>
+          <h2 className="mx-2 text-2xl font-bold   lg:text-5xl text-[#bc1d5c] font-kid">
+          $PinkSol
+          </h2>
+          <h2 className="mx-2 text-2xl font-bold   lg:text-5xl text-[#bc1d5c] font-kid">
+          $PinkSol
+          </h2>
+          <h2 className="mx-2 text-2xl font-bold   lg:text-5xl text-[#bc1d5c] font-kid">
+          $PinkSol
           </h2>
           </Marquee>
         </div>
