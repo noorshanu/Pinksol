@@ -5,7 +5,7 @@ import Tokenomic from "./Tokenomic";
 const Intro = () => {
   return (
     <>
-      <div className=" container-wrapper  px-4 relative  ">
+      <div className=" container-wrapper  px-4 relative  " data-aos="fade-right">
         <img
           src="images/bb1.jpg"
           alt=""

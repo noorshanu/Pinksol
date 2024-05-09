@@ -2,7 +2,7 @@ import React from "react";
 
 function Mission() {
   return (
-    <section className=" container-wrapper">
+    <section className=" container-wrapper" data-aos="fade-up">
       <div className=" flex justify-between items-center flex-col-reverse sm:flex-row">
         <div className="w-full">
           <img src="images/cat.jpg" alt="" className=" h-[350px] rounded-xl" />
