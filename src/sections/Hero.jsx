@@ -13,11 +13,11 @@ function Hero() {
           />
         </h1>
 
-        <div className=" flex justify-center mx-auto -mt-[4rem]">
+        <div className=" flex justify-center mx-auto mt-0 sm:-mt-[4rem]">
           <img
             src="images/hero.png"
             alt=""
-            className="w-auto h-64    lg:h-[500px] 2xl:h-[550px] mx-auto floating"
+            className="w-auto h-auto    lg:h-[500px] 2xl:h-[550px] mx-auto floating"
           />
         </div>
 

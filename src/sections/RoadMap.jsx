@@ -14,7 +14,7 @@ function RoadMap() {
           Our Roadmap
         </h2>
 
-        <div className=" flex justify-between items-center ">
+        <div className=" flex justify-between items-center flex-col sm:flex-row ">
           <div>
             <div className="flex justify-center flex-col sm:flex-row gap-5">
               <div className="border-[#bc1d5c]  bg-[#fd8b0000] py-5 px-5  rounded-2xl w-full sm:w-[350px] h-[130px] border-2">
