@@ -17,12 +17,13 @@
 
 @layer base {
   * {
-    @apply font-quantico;
+    @apply font-kid;
   }
 
   html,
   body {
     @apply bg-[#FFCAEA] text-black ;
+    font-family: "kid";
   }
 
   .container-wrapper {

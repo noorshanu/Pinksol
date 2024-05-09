@@ -14,7 +14,7 @@ const Footer = () => {
             PinkSol
           </h2>
           <div className=" flex items-center justify-center gap-2">
-            <p className="mt-3 text-xs text-black lg:text-sm font-nubFont">
+            <p className="mt-3 text-xs text-black lg:text-sm font-kid">
             Copyright © 2024   PinkSol
             </p>
           </div>

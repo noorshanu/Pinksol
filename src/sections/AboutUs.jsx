@@ -13,7 +13,7 @@ function AboutUs() {
           <h1 className=" max-w-xl text-4xl font-medium text-center font-sushi-one text-[#d95a83] p-4">
             Join our community
           </h1>
-          <p className="text-lg font-medium text-[white] text-center p-2">
+          <p className="text-lg font-medium text-[white] text-center p-2 ">
               By Buying FrogNinja, you become a part of the community. You're not just a fan, <br />you're a support
               , a patron, apart of the creator's journey.
             </p>
