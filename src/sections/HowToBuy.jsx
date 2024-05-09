@@ -3,7 +3,7 @@ import React from 'react'
 function HowToBuy() {
   return (
     <div className=" container-wrapper  px-4 relative  " data-aos="fade-right">
-         <h1 className=" font-kid font-bold text-4xl sm:text-6xl my-3 text-center pb-4">HOW TO Buy</h1>
+         <h1 className=" font-kid font-bold text-4xl sm:text-6xl my-3 text-center pb-4 text-[#bc1d5c]">HOW TO Buy</h1>
 
 
          <div className=' flex justify-between items-center gap-4 flex-col sm:flex-row'>

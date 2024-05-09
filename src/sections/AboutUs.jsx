@@ -8,7 +8,7 @@ function AboutUs() {
         Join Our Community
       </h1>
 
-      <div className="flex flex-col justify-center items-center big-info__inner items-center px-4 border-[#a1ff3c] border ">
+      <div className="flex flex-col justify-center  big-info__inner items-center px-4 border-[#a1ff3c] border ">
         <div className="flex flex-col justify-center items-center gap-4">
           <h1 className=" max-w-xl text-4xl font-medium text-center font-sushi-one text-[#d95a83] p-4">
             Join our community

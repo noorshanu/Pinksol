@@ -5,7 +5,7 @@ function MemeCards() {
   return (
     <div className=" container-wrapper py-4 px-4 mx-auto">
      
-      <h2 className="font-groot-one text-5xl my-2 text-[#000000] text-center font-bold relative z-30">
+      <h2 className="font-groot-one text-5xl my-2 text-[#bc1d5c] text-center font-bold relative z-30">
       Our Products
         </h2>
         

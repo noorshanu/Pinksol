@@ -10,7 +10,7 @@ function RoadMap() {
       />
 
       <div className="container-wrapper mb-4">
-        <h2 className="font-kid text-4xl sm:text-6xl text-[#000000] text-center font-bold relative z-30 my-4">
+        <h2 className="font-kid text-4xl sm:text-6xl text-[#bc1d5c] text-center font-bold relative z-30 my-4">
           Our Roadmap
         </h2>
 

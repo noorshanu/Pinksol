@@ -9,7 +9,7 @@ function Mission() {
         </div>
 
         <div className="  border-2  border-[#bc1d5c]  py-8 px-4 rounded-2xl shadow-xl max-w-2xl ">
-          <h1 className=" font-kid font-bold text-3xl sm:text-5xl my-3">PinkSol Mission</h1>
+          <h1 className=" font-kid font-bold text-3xl sm:text-5xl my-3 text-[#bc1d5c]">PinkSol Mission</h1>
 
           <p className=" text-lg sm:text-xl "> 
             To the moon we aim, no bumps, just zoom! It's   PinkSol moon day, a

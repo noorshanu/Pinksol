@@ -24,15 +24,15 @@ const Intro = () => {
 
         </div>
 
-          <div className=" flex flex-col sm:flex-row justify-center gap-4 mt-8 ">
-            <span className="text-[50px] sm:text-[100px] font-kid font-bold">
+          <div className=" flex flex-col sm:flex-row justify-center gap-6 mt-8 ">
+            <span className="text-[50px] sm:text-[100px] font-kid font-bold text-[#bc1d5c]">
               LP BURNT
             </span>{" "}
             <span className="text-[50px] sm:text-[100px] font-kid font-bold">
               {" "}
               0% TAX{" "}
             </span>{" "}
-            <span className=" text-[50px] sm:text-[100px] font-kid font-bold">
+            <span className=" text-[50px] sm:text-[100px] font-kid font-bold ml-3 text-[#bc1d5c]">
               {" "}
               Mint Revoked
             </span>
