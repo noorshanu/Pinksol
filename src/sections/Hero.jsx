@@ -9,11 +9,11 @@ function Hero() {
           <img
             src="images/pink.png"
             alt=""
-            className=" mx-auto w-full h-full py-6"
+            className=" mx-auto w-full h-full py-6 mb-6"
           />
         </h1>
 
-        <div className=" flex justify-center mx-auto mt-0 sm:-mt-[4rem]">
+        <div className=" flex justify-center mx-auto mt-0 sm:mt-[1rem]">
           <img
             src="images/hero.png"
             alt=""

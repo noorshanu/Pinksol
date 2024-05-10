@@ -3,7 +3,7 @@ import React from "react";
 function Tokenomic() {
   return (
     <div className=" container-wrapper  px-4 relative  ">
-      <h1 className=" font-kid font-bold text-4xl sm:text-6xl my-3 text-[#bc1d5c] text-center pb-4">
+      <h1 className=" font-kid font-bold text-4xl sm:text-8xl my-3 text-[#bc1d5c] text-center pb-4">
         Pinknomics
       </h1>
 

@@ -28,7 +28,7 @@ const Popup = ({ onClose }) => {
           className="bg-[#bc1d5c] rounded-full px-6 py-2 text--2xl sm:text-5xl font-kid border-white  font-bold border-2 hover:scale-125 text-white"
           onClick={onClose}
         >
-           PinkSol - $PkSol
+           PinkSol - Opan duur!
         </button>
       </div>
     </div>
@@ -67,15 +67,15 @@ function AppLayout() {
 
         <Hero />
         <div className=" flex justify-center my-4 " data-aos="fade-up">
-          <button
+          {/* <button
             className="bg-[#bc1d5c] text-white font-bold py-2 px-16 rounded focus:outline-none focus:shadow-outline  hover:scale-125"
             onClick={handlePlayPause}
           >
             {isPlaying ? "Pause " : "Play Music"}
-          </button>
+          </button> */}
         
         </div>
-        <a href="https://solscan.io/token/Hv1pMPytvgMPUVQUdXsBWhvgdYJqcRdKSeRBK3BrhYcu" target="_blank" data-aos="fade-up" className="bg-[#bc1d5c] my-2 text-white font-bold py-2 px-2 sm:px-16 rounded sm:text-lg text-xs   flex justify-center w-[360px] sm:w-[720px] mx-auto">CA : Hv1pMPytvgMPUVQUdXsBWhvgdYJqcRdKSeRBK3BrhYcu</a>
+        {/* <a href="https://solscan.io/token/Hv1pMPytvgMPUVQUdXsBWhvgdYJqcRdKSeRBK3BrhYcu" target="_blank" data-aos="fade-up" className="bg-[#bc1d5c] my-2 text-white font-bold py-2 px-2 sm:px-16 rounded sm:text-lg text-xs   flex justify-center w-[360px] sm:w-[720px] mx-auto">CA : Hv1pMPytvgMPUVQUdXsBWhvgdYJqcRdKSeRBK3BrhYcu</a> */}
         <audio ref={audioRef} src={Music}></audio>
 
       

@@ -53,7 +53,7 @@ function RoadMap() {
                   </h1>
                 </div>
                 <p className=" text-lg font-popins font-normal lh-1_7">
-                  • Airdrop 5% of total supply to PinkSol Loyal holders .
+                  • Airdrop 2% of total supply to PinkSol Loyal holders .
                 </p>
               </div>
               <div className="border-[#bc1d5c]  bg-[#fd8b0000] py-5 px-5  rounded-2xl w-full sm:w-[350px] h-[130px] border-2">
