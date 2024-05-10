@@ -27,7 +27,7 @@ function RoadMap() {
                   • Build community & Social .
                 </p>
                 <p className=" text-lg font-popins font-normal lh-1_7 font-kido">
-                  • Stealth Launch .
+                  • Wl Fairlaunch .
                 </p>
               </div>
 
