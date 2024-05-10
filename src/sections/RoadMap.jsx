@@ -23,10 +23,10 @@ function RoadMap() {
                     Phase 1
                   </h1>
                 </div>
-                <p className=" text-lg font-popins font-normal lh-1_7">
+                <p className=" text-lg font-popins font-normal lh-1_7 font-kido">
                   • Build community & Social .
                 </p>
-                <p className=" text-lg font-popins font-normal lh-1_7">
+                <p className=" text-lg font-popins font-normal lh-1_7 font-kido">
                   • Stealth Launch .
                 </p>
               </div>
@@ -37,10 +37,10 @@ function RoadMap() {
                     Phase 2
                   </h1>
                 </div>
-                <p className=" text-lg font-popins font-normal lh-1_7">
+                <p className=" text-lg font-popins font-normal lh-1_7 font-kido">
                   • Strategic growth plan.
                 </p>
-                <p className=" text-lg font-popins font-normal lh-1_7">
+                <p className=" text-lg font-popins font-normal lh-1_7 font-kido">
                   • Execute Marketing.
                 </p>
               </div>
@@ -52,8 +52,8 @@ function RoadMap() {
                     Phase 3
                   </h1>
                 </div>
-                <p className=" text-lg font-popins font-normal lh-1_7">
-                  • Airdrop 2% of total supply to PinkSol Loyal holders .
+                <p className=" text-lg font-popins font-normal lh-1_7 font-kido">
+                  • Airdrop 2% of total supply to PinkSol Loyal holders 
                 </p>
               </div>
               <div className="border-[#bc1d5c]  bg-[#fd8b0000] py-5 px-5  rounded-2xl w-full sm:w-[350px] h-[130px] border-2">
@@ -62,7 +62,7 @@ function RoadMap() {
                     Phase 4
                   </h1>
                 </div>
-                <p className=" text-lg font-popins font-normal lh-1_7">
+                <p className=" text-lg font-popins font-normal lh-1_7 font-kido">
                   • Tier 1 CEX listings
                 </p>
               </div>

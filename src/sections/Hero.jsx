@@ -5,12 +5,9 @@ function Hero() {
   return (
     <section className=" pt-0  pb-[1rem]" data-aos="fade-up">
       <div className="container-wrapper flex justify-center flex-col ">
-        <h1 className=" font-kid text-[110px] sm:text-[220px] font-bold text-center mt-[5rem] sm:mt-[3rem] uppercase">
-          <img
-            src="images/pink.png"
-            alt=""
-            className=" mx-auto w-full h-full py-6 mb-6"
-          />
+        <h1 className=" font-kid text-[110px] sm:text-[220px] font-bold text-center mt-[5rem] sm:mt-[3rem] uppercase text-[#bc1d5c]">
+    
+          PinkSol
         </h1>
 
         <div className=" flex justify-center mx-auto mt-0 sm:mt-[1rem]">

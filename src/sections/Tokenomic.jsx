@@ -11,19 +11,19 @@ function Tokenomic() {
         <div className=" w-full sm:w-[300px] border-[#bc1d5c]  bg-[#fd8b0000] border-2   py-8 px-4 rounded-2xl shadow-xl">
           <h1 className=" text-2xl font-semibold  pb-2">Token Name</h1>
 
-          <p className=" text-lg font-semibold">  PinkSol</p>
+          <p className=" text-lg font-semibold font-kido">  PinkSol</p>
         </div>
 
         <div className=" w-full sm:w-[300px] border-[#bc1d5c]  bg-[#fd8b0000] border-2   py-8 px-4 rounded-2xl shadow-xl">
           <h1 className=" text-2xl font-semibold  pb-2">Symbol</h1>
 
-          <p className=" text-lg font-semibold">$PinkSol</p>
+          <p className=" text-lg font-semibold font-kido">$PinkSol</p>
         </div>
 
         <div className=" w-full sm:w-[300px] border-[#bc1d5c]  bg-[#fd8b0000] border-2   py-8 px-4 rounded-2xl shadow-xl">
           <h1 className=" text-2xl font-semibold  pb-2">Total Supply</h1>
 
-          <p className=" text-lg font-semibold">1,000,000,000</p>
+          <p className=" text-lg font-semibold font-kido">1,000,000,000</p>
         </div>
       </div>
     </div>

@@ -6,6 +6,10 @@
 
 @font-face {
   font-family: "kid";
+  src: url("/fonts/scribble.otf");
+}
+@font-face {
+  font-family: "kido";
   src: url("/fonts/sens.otf");
 }
 
@@ -13,6 +17,9 @@
   font-family: "kid";
 }
 
+.font-kido{
+  font-family: "kido";
+}
 
 
 @layer base {

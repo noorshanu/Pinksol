@@ -6,7 +6,7 @@ const Footer = () => {
     <footer className=" w-full pb-8 relative z-10 " data-aos="fade-up">
       <img src="images/boy2.jpg" alt=""  className=" mx-auto h-[350px]" />
       <div className="container-wrapper mt-8 ">
-        <p className="   mx-auto mb-2 lg:mb-3 text-xl sm:text-2xl font-kid text-center ">
+        <p className="   mx-auto mb-2 lg:mb-3 text-xl sm:text-2xl font-kid text-center font-kido ">
         Legal Disclaimer: PinkSol is a meme coin for fun, with no real value or profit expectation. By buying PinkSol, you agree you've read and understood this. its Inspired by Hardwork done by Pinksale and there team. and we appricaite tere hardwork they do for Crypto.
         </p>
         <div className="">
