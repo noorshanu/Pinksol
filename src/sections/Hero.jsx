@@ -35,12 +35,12 @@ function Hero() {
           </a>
 
           <a
-            href="https://www.dextools.io/app/en/solana/pair-explorer/52og9K7jjsoP76FXRHc62KXWu3aKdhriXHGdGv92Fnp8?t=1713602367339"
+            href="https://www.dexview.com/solana/CGfu4VXYRRAZL6SLNkVJMQ3f2W8ffPCYYM6yENjW2eWz"
             target="_blank"
             className=" text-5xl  bg-[#bc1d5c] hover:scale-125 hover:bg-transparent hover:border hover:border-[#bc1d5c] hover:text-black text-white  rounded-full p-1 border-2 border-[#fff]  "
           >
             <img
-              src="https://docs.pinksale.finance/~gitbook/image?url=https%3A%2F%2F191452618-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fspaces%252F-MdJrJV-Z8jLCR-JNtlx%252Favatar-1625140872178.png%3Fgeneration%3D1625140872743800%26alt%3Dmedia&width=32&dpr=3&quality=100&sign=1f27b51f62e68fc4c777b95cd90c76d7e2c9e24341c8570373c32dcc6f2b264a"
+              src="https://www.dexview.com/favicon.png"
               alt=""
               className=" h-[65px] w-auto rounded-full"
             />

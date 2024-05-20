@@ -28,7 +28,7 @@ function Navbar() {
 
         {/* Wallet Connect button */}
         <div className="md:flex items-center">
-            <a href="" target="_blank" className="bg-[#bc1d5c] hover:bg-transparent hover:border hover:border-[#bc1d5c] hover:text-black text-white rounded-full px-4 py-2 text-xl font-kid  font-semibold ">Buy Now</a>
+            <a href="https://raydium.io/swap/?inputCurrency=sol&outputCurrency=CGfu4VXYRRAZL6SLNkVJMQ3f2W8ffPCYYM6yENjW2eWz&fixed=in" target="_blank" className="bg-[#bc1d5c] hover:bg-transparent hover:border hover:border-[#bc1d5c] hover:text-black text-white rounded-full px-4 py-2 text-xl font-kid  font-semibold ">Buy Now</a>
         </div>
 
         {/* Hamburger menu for mobile */}

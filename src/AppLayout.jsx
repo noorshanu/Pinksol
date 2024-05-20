@@ -75,7 +75,7 @@ function AppLayout() {
           </button> */}
         
         </div>
-        {/* <a href="https://solscan.io/token/Hv1pMPytvgMPUVQUdXsBWhvgdYJqcRdKSeRBK3BrhYcu" target="_blank" data-aos="fade-up" className="bg-[#bc1d5c] my-2 text-white font-bold py-2 px-2 sm:px-16 rounded sm:text-lg text-xs   flex justify-center w-[360px] sm:w-[720px] mx-auto">CA : Hv1pMPytvgMPUVQUdXsBWhvgdYJqcRdKSeRBK3BrhYcu</a> */}
+        <a href="https://solscan.io/token/CGfu4VXYRRAZL6SLNkVJMQ3f2W8ffPCYYM6yENjW2eWz" target="_blank" data-aos="fade-up" className="bg-[#bc1d5c] my-2 text-white font-bold py-2 px-2 sm:px-16 rounded sm:text-lg text-xs   flex justify-center w-[360px] sm:w-[720px] mx-auto">CA : CGfu4VXYRRAZL6SLNkVJMQ3f2W8ffPCYYM6yENjW2eWz</a>
         <audio ref={audioRef} src={Music}></audio>
 
       
