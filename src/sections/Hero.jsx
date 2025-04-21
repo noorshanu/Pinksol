@@ -19,15 +19,10 @@ function Hero() {
         </div>
 
         <div className=" flex justify-center gap-5 items-center mt-[2rem]">
-          <a
-            href="https://x.com/pinksolx"
-            className=" text-5xl p-3  bg-[#bc1d5c] hover:scale-125 hover:bg-transparent hover:border hover:border-[#bc1d5c] hover:text-black text-white  rounded-full  border-2 border-[#fff]  "
-          >
-            <BsTwitterX />
-          </a>
+   
 
           <a
-            href="https://t.me/pinksolport"
+            href="https://t.me/pinksoll"
             target="_blank"
             className=" text-5xl  bg-[#bc1d5c] hover:scale-125 hover:bg-transparent hover:border hover:border-[#bc1d5c] hover:text-black text-white  rounded-full p-3 border-2 border-[#fff]  "
           >
@@ -35,7 +30,7 @@ function Hero() {
           </a>
 
           <a
-            href="https://www.dexview.com/solana/CGfu4VXYRRAZL6SLNkVJMQ3f2W8ffPCYYM6yENjW2eWz"
+            href="https://www.dexview.com/"
             target="_blank"
             className=" text-5xl  bg-[#bc1d5c] hover:scale-125 hover:bg-transparent hover:border hover:border-[#bc1d5c] hover:text-black text-white  rounded-full p-1 border-2 border-[#fff]  "
           >

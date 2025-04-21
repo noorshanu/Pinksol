@@ -28,7 +28,7 @@ function Navbar() {
 
         {/* Wallet Connect button */}
         <div className="md:flex items-center">
-            <a href="https://raydium.io/swap/?inputCurrency=sol&outputCurrency=CGfu4VXYRRAZL6SLNkVJMQ3f2W8ffPCYYM6yENjW2eWz&fixed=in" target="_blank" className="bg-[#bc1d5c] hover:bg-transparent hover:border hover:border-[#bc1d5c] hover:text-black text-white rounded-full px-4 py-2 text-xl font-kid  font-semibold ">Buy Now</a>
+            <a href="https://t.me/pinksoll" target="_blank" className="bg-[#bc1d5c] hover:bg-transparent hover:border hover:border-[#bc1d5c] hover:text-black text-white rounded-full px-4 py-2 text-xl font-kid  font-semibold ">Telegram</a>
         </div>
 
         {/* Hamburger menu for mobile */}
@@ -76,17 +76,12 @@ function Navbar() {
             <a href="#col" className="text-black font-bold text-xl block px-3 py-2">Features</a>
             
             <div className=" flex items-center gap-4 text-white mb-6 ml-5">
-            <a
-                  href="https://twitter.com/  PinkSolSolana"
-                  className=" text-xl text-black bg-white hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
-                >
-                  <BsTwitterX />
-                </a>
+
              
            
 
                 <a
-                  href="https://t.me/  PinkSol" target="_blank"
+                  href="https://t.me/pinksoll" target="_blank"
                   className=" text-xl text-black bg-white hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
                 >
                   <FaTelegram />
